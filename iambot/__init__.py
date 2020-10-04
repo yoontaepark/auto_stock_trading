@@ -1,4 +1,4 @@
-#ui.py의 모든 클래스들을 사용하능
+#ui.py의 모든 클래스들을 사용함
 from ui.ui import *
 
 class Main():
